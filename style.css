@@ -1,0 +1,25 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+*{ 
+    margin: 0; 
+    padding: 0; 
+} 
+div{ 
+    font-size: 10rem; 
+    line-height: 90vh; 
+    height: 100vh; 
+    text-align: center; 
+    color: #9fc8db; 
+    background-color: #d1b4d4; 
+    font-family: 'Lemon', serif;
+    font-weight: 700; 
+    text-shadow: 5px 5px 0px #b856a7, 
+                 10px 10px 0px #c035d3, 
+                 15px 15px 0px #26c281, 
+                 20px 20px 0px #017f3a, 
+                 25px 25px 0px #052939, 
+                 30px 30px 0px #c11a2b, 
+                 35px 35px 0px #c11a2b, 
+                 40px 40px 0px #c11a2b, 
+                 45px 45px 0px #300308; 
+}
